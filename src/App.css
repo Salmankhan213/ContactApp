@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.add-icon{
+  cursor: pointer;
+}
+.ico-hover{
+  cursor: pointer;
+}
+.model{
+  padding: 30px;
+  width: 50%;
+  margin: 0px auto;
+}
+.model-wrapper{
+  position: absolute;
+  top: 180px;
+  z-index: 99;
+}
+.card-detial h6{
+  line-break: auto;
+
+}
+.container-wrapper{
+  z-index: -22;
+  opacity: 40%;
+}
